@@ -1,0 +1,17 @@
+{
+    "name": "TODO List",
+    "version": "1.0.0",
+    "description": "TODO List API Documentation",
+    "title": "TODO List API",
+    "author": "Ganapathy Padmanaban",
+    "created": "01-01-2020",
+    
+    "order": [
+      "User",
+      "List",
+      "Item"
+    ],
+    "template": {
+      "forceLanguage": "en"
+    }
+}
